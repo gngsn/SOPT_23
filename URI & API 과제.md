@@ -28,7 +28,7 @@
 ### 요청 헤더
 
 ```
-content-Type : multipart/form-data
+content-Type : Application/json
 ```
 
 
@@ -237,7 +237,7 @@ content-Type : multipart/form-data
 ### 요청 헤더
 
 ```
-content-Type : multipart/form-data
+content-Type : Application/json
 ```
 
 
