@@ -52,7 +52,7 @@ content-Type : multipart/form-data
 }
 ```
 
-#### 없는 글 조회
+#### 없는 조회
 
 ```
 {
