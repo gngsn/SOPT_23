@@ -244,7 +244,7 @@ content-Type : Application/json
 
 ### 응답 바디
 
-#### 글 삭제 성공
+#### 삭제 성공
 
 ```
 {
