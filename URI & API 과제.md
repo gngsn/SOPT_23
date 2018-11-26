@@ -260,7 +260,7 @@ content-Type : Application/json
 {
     "status": 403,
     "message": "권한이 없습니다.",
-    "data": false
+    "data": null
 }
 ```
 
